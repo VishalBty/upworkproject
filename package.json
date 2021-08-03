@@ -36,7 +36,7 @@
     "node-fetch": "^2.6.0",
     "now": "^16.7.3",
     "rimraf": "^3.0.0",
-    "tar": "^5.0.5"
+    "tar": "^5.0.7"
   },
   "config": {
     "commitizen": {
