@@ -33,7 +33,7 @@
     "eslint-plugin-standard": "^4.0.1",
     "gh-pages": "^2.2.0",
     "listr": "^0.14.3",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "now": "^16.7.3",
     "rimraf": "^3.0.0",
     "tar": "^5.0.5"
