@@ -8,7 +8,7 @@
     "contentful": "^7.13.0",
     "contentful-management": "^5.12.0",
     "eslint-plugin-import": "^2.19.1",
-    "nuxt": "^2.11.0",
+    "nuxt": "^3.0.0",
     "vue-markdown": "^2.2.4"
   },
   "scripts": {
@@ -27,7 +27,7 @@
     "cz-conventional-changelog": "^3.0.2",
     "eslint": "^6.8.0",
     "eslint-config-standard": "^14.1.0",
-    "eslint-loader": "^3.0.3",
+    "eslint-loader": "^4.0.2",
     "eslint-plugin-html": "^6.0.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
